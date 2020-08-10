@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AppPremierLeague</string>
+    <string name="points">Points: </string>
+    <string name="matches">Matches: </string>
+    <string name="goals">Goals: </string>
+    <string name="assists">Assists: </string>
+    <string name="shot_total">Shot total: </string>
+    <string name="shot_on">Shot on: </string>
+    <string name="dribble_success">Dribble success: </string>
+    <string name="dribble_total">Dribble total: </string>
+    <string name="passes_key">Passes key: </string>
+    <string name="passes_total">Passes total: </string>
+    <string name="fouls_committed">Fouls committed: </string>
+    <string name="tackles_total">Tackles total: </string>
+    <string name="blocks">Blocks: </string>
+    <string name="interceptions">Interceptions: </string>
+    <string name="duel_total">Duel total: </string>
+    <string name="duel_won">Duel won: </string>
+    <string name="sort">Sort by:</string>
+    <string name="choose_player">Choose player to compare: </string>
+
+    <string name="name">Name</string>
+    <string name="match">Matches</string>
+    <string name="wins">Wins</string>
+    <string name="lose">Lose</string>
+    <string name="point">Point</string>
+    <string name="rank">Rank</string>
+    <string name="red_card">Red card:</string>
+    <string name="yellow_card">Yellow card:</string>
+
+
+    <string name="fa_icon_sort">&#xf161;</string>
+    <string name="fa_icon_check">&#xf00c;</string>
+    <string name="fa_icon_times">&#xf00d;</string>
+    <string name="fa_icon_left_arrow">&#xf060;</string>
+    <string name="fa_icon_down_arrow">&#xf063;</string>
+
+
+</resources>

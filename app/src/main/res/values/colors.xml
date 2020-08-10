@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="green">#74B627</color>
+    <color name="red">#880C0C</color>
+    <color name="black">#050505</color>
+    <color name="soccer_green">#376E4A</color>
+    <color name="white">#FAFAFA</color>
+    <color name="green_win">#105A13</color>
+
+</resources>
